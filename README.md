@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 1. Papers
 
-You can use the [editor on GitHub](https://github.com/siyanli6315/me.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 1.1 [*Great Again or Stronger Together? Sentiment Analysis About Book Reviews on Amazon*](https://github.com/jw-cufe/SentimentAnalysisAboutBookReview)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+During the presidential election in the year of 2016, Donald Trump, a fruitful writer, businessman and talk show host, swept adverse remarks away and flushed to the top against his rival, Hillary Clinton, as the 45th American president. This research collected book reviews of both candidates' bestsellers on Amazon during US presidential election, then used VADER(Valence Aware Dictionary for sentiment Reasoning) to extract emotional changes in book reviews of 2 bestsellers by the two presidential candidates before, during and after the election. We found 3 major conclusions listed above: First, all the major events, whether positive or negative, will cause an increase in the number of book reviews(representing public attention) by person concerned. Second, although Americans are sensitive to political scandals, the influence of candidates' political debate performance could overwhelm sudden events. Third, most American readers would use humor or irony to express their appreciation or dissatisfaction with certain political events, so that online scoring could not reflect public opinion precisely.
 
-### Markdown
+## 2. homeworks
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2.1 [*Data Visualization*](https://www.coursera.org/learn/datavisualization)
 
-```markdown
-Syntax highlighted code block
+### 2.2 [*Neural Networks for Machine Learning*](https://www.coursera.org/learn/neural-networks)
 
-# Header 1
-## Header 2
-### Header 3
+## 3. [*kaggle*](https://www.kaggle.com) projects
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/siyanli6315/me.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My kaggle homepage is *https://www.kaggle.com/lisiyan*
