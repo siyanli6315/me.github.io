@@ -16,9 +16,7 @@ github主页：https://github.com/siyanli6315/
 
 ## 博客
 
-[*使用Mahout实现kmeans聚类*](https://github.com/siyanli6315/ExerciseMahoutKmeans)
-
-[数据科学网链接](http://118.244.232.195/wiki/)
+[*使用Mahout实现kmeans聚类*](https://github.com/siyanli6315/ExerciseMahoutKmeans)([数据科学网链接](http://118.244.232.195/wiki/))
 
 [*Map-reduce实现逻辑回归和交叉验证*](https://github.com/siyanli6315/ExerciseMapReduce)
 
